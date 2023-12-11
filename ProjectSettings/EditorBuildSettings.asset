@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/All scenes/Language selection.unity
+    guid: ca09a5e3134164440bea265729697cae
+  - enabled: 1
+    path: Assets/Scenes/All scenes/no hint spanish/tutorial_scene_spanish.unity
+    guid: 19ddb75b593ab134793d1465a05ee225
+  - enabled: 1
+    path: Assets/Scenes/All scenes/no hint spanish/art_gallery_spanish.unity
+    guid: e8a42fb60b39977439e7c079c8f75183
+  - enabled: 1
+    path: Assets/Scenes/All scenes/no hint spanish/street_view_spanish.unity
+    guid: bd130483dfff86e428038d14a702b88d
+  - enabled: 1
+    path: Assets/Scenes/All scenes/no hint spanish/bar_spanish.unity
+    guid: 81e57806322fdc74cb29f4305b384c9d
+  - enabled: 1
+    path: Assets/Scenes/All scenes/no hint french/tutorial_scene_french.unity
+    guid: 03924a9be8a16a449a1fcd84aec5938c
+  - enabled: 1
+    path: Assets/Scenes/All scenes/no hint french/art_gallery_french.unity
+    guid: 8b294e1b7cb040749aa5e61c23d30351
+  - enabled: 1
+    path: Assets/Scenes/All scenes/no hint french/street_view_french.unity
+    guid: a53a1936e1f6aaf4f8d0c5c7dcbe06bd
+  - enabled: 1
+    path: Assets/Scenes/All scenes/no hint french/bar_french.unity
+    guid: 6e1ed9d12a1cc8349b7210fb3564261c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4e7ad90727080144d9d2fddbd8a6faf2,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0ba7a955b06e3fe4892fbb87facfd2d0,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 36773ea20723c5d42af1ec56cf28b0d1,
+      type: 2}
